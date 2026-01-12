@@ -356,6 +356,7 @@ body {
 .etiqueta a:visited {
   color: #054f1a;
   text-decoration: none;
+  border-bottom: 2px dotteline #054f1a;
   padding-bottom: 2px;
 }
 
