@@ -313,9 +313,14 @@ body {
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+.hi-melody-regular {
+  font-family: "Hi Melody", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 #texto-producto {
-  font-family: "The Girl Next Door", cursive;
+ font-family: "Hi Melody", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 14px;
