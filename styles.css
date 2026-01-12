@@ -305,16 +305,20 @@ body {
   color: #2b2b2b;
 }
 
-.titulo-producto {
-  font-family: "Barriecito", cursive;
+#titulo-producto {
+  font-family: "Barriecito", system-ui;
   font-weight: 400;
+  font-style: normal;
   font-size: 25px;
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
 
-.texto-producto {
-  font-family: "Yuji Boku", serif;
+
+#texto-producto {
+ font-family: "Hi Melody", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 14px;
   line-height: 1.6;
   color: #555;
