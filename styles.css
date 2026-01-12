@@ -354,7 +354,7 @@ body {
 
 .etiqueta a,
 .etiqueta a:visited {
-  color: inherit;
+  color: #054f1a;
   text-decoration: none;
   border-bottom: 2px dotted #054f1a;
   padding-bottom: 2px;
